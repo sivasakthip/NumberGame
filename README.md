@@ -12,6 +12,6 @@ Contributing:
 Contributions are welcome! If you have any suggestions for improvements or new features, feel free to open an issue or submit a pull request.
 
 License:
-This project is licensed under the Eclipse License - see the LICENSE file for details.
+This project is licensed under the Eclipse Public License - v 2.0 - see the LICENSE file for details.
 
 
